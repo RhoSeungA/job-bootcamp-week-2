@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/ExceptionApplication" />
     <file type="web" url="file://$PROJECT_DIR$/todoServer" />
+    <file type="web" url="file://$PROJECT_DIR$/Validation" />
     <file type="web" url="file://$PROJECT_DIR$/week2" />
   </component>
   <component name="ProjectRootManager">

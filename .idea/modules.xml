@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExceptionApplication.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ExceptionApplication.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Validation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Validation.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bootcamp.iml" filepath="$PROJECT_DIR$/.idea/bootcamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/todoServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/todoServer.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/week2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/week2.main.iml" />
